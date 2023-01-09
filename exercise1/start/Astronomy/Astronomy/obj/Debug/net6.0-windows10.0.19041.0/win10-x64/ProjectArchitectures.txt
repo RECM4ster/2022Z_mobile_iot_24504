@@ -1,0 +1,1 @@
+C:\Users\M4\Zaliczenie\exercise1\start\Astronomy\Astronomy\Astronomy.csproj;x64
