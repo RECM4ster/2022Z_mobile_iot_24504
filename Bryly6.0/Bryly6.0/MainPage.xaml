@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bryly6._0.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center"
+            BackgroundColor="White">
+
+            <Label
+                Text="Witaj w programie bryly!"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" 
+                TextColor="Black"/>
+
+            <Label
+                Text="Ten program pomoże ci obliczyć objętość i pole poszczególnych brył geometrycznych "
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                FontSize="18"
+                HorizontalOptions="Center"
+                TextColor="Black"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

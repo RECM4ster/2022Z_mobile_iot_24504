@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bryly6._0
+build_property.ProjectDir = C:\Users\M4\Zaliczenie\Bryly6.0\Bryly6.0\
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/about.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.about.xaml
+build_metadata.AdditionalFiles.TargetPath = about.xaml
+build_metadata.AdditionalFiles.RelativePath = about.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/kula.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.kula.xaml
+build_metadata.AdditionalFiles.TargetPath = kula.xaml
+build_metadata.AdditionalFiles.RelativePath = kula.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/prostopadloscian.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.prostopadloscian.xaml
+build_metadata.AdditionalFiles.TargetPath = prostopadloscian.xaml
+build_metadata.AdditionalFiles.RelativePath = prostopadloscian.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/stozek.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.stozek.xaml
+build_metadata.AdditionalFiles.TargetPath = stozek.xaml
+build_metadata.AdditionalFiles.RelativePath = stozek.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/stozekSciety.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.stozekSciety.xaml
+build_metadata.AdditionalFiles.TargetPath = stozekSciety.xaml
+build_metadata.AdditionalFiles.RelativePath = stozekSciety.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/szescian.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.szescian.xaml
+build_metadata.AdditionalFiles.TargetPath = szescian.xaml
+build_metadata.AdditionalFiles.RelativePath = szescian.xaml
+
+[C:/Users/M4/Zaliczenie/Bryly6.0/Bryly6.0/walec.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bryly6._0.walec.xaml
+build_metadata.AdditionalFiles.TargetPath = walec.xaml
+build_metadata.AdditionalFiles.RelativePath = walec.xaml

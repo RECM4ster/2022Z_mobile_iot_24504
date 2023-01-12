@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bryly6._0.kula">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center"
+           BackgroundColor="White"
+            >
+
+            <Label
+                Text="Kula"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" 
+                TextColor="Black"/>
+
+            <Image
+                Source="kula.png"
+                HeightRequest="200"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Podaj promien kuli [r]"                
+                SemanticProperties.HeadingLevel="Level3"
+                FontSize="18"
+                TextColor="Black"
+                />
+            <Entry x:Name="r1" Placeholder="Podaj promien kuli [r]" Keyboard="Numeric" TextColor="Black"/>
+
+            <Label x:Name="ppOut" Text="" TextColor="Black"/>
+            <Label x:Name="vOut" Text="" TextColor="Black"/>
+            <Button x:Name="clearform" Text="Wyczyść Formularz" BorderColor="Black" 
+                TextColor="Black"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

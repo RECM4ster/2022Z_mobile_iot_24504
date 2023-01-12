@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bryly6._0.stozekSciety">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center"
+            BackgroundColor="White">
+
+            <Label
+                Text="Stozek sciety"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center"
+                TextColor="Black"/>
+            <Image
+
+                Source="stozekS.png"
+                HeightRequest="200"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Podaj wysokosc stozka scietego [H]"                
+                SemanticProperties.HeadingLevel="Level3"
+                FontSize="18"
+                TextColor="Black"
+                />
+            
+            <Entry x:Name="h" Placeholder="Podaj wysokosc stozka scietego [H]" Keyboard="Numeric" TextColor="Black"/>
+
+            <Label
+                Text="Podaj promien podstawy 1 stozka [R]"                
+                SemanticProperties.HeadingLevel="Level3"
+                FontSize="18"
+                TextColor="Black"/>
+
+            <Entry x:Name="r1" Placeholder="Podaj promien podstawy stozka [R]" Keyboard="Numeric" TextColor="Black"/>
+
+            <Label
+                Text="Podaj promien podstawy 2 stozka [r]"                
+                SemanticProperties.HeadingLevel="Level3"
+                FontSize="18"
+                TextColor="Black"
+                />
+
+            <Entry x:Name="r2" Placeholder="Podaj promien podstawy stozka [r]" Keyboard="Numeric" TextColor="Black"/>
+
+            <Label
+                Text="Podaj dlugosc krawedzi bocznej  stozka [l]"                
+                SemanticProperties.HeadingLevel="Level3"
+                FontSize="18"
+                TextColor="Black"
+                />
+
+            <Entry x:Name="l" Placeholder="Podaj dlugosc krawedzi bocznej stozka stozka [l]" Keyboard="Numeric" TextColor="Black"/>
+
+            <Label x:Name="ppOut" Text=""  TextColor="Black"/>
+            <Label x:Name="vOut" Text="" TextColor="Black"/>
+            <Button x:Name="clearform" Text="Wyczyść Formularz" BorderColor="Black" 
+                TextColor="Black"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
