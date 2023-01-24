@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": null,
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/zaliczenie-szczepaniak-haenel/databases/Zaliczenie",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:ZaliczenieDB",
+      "dynamicId": null
+    }
+  }
+}

@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PaswordManagerMobileApp
+build_property.ProjectDir = C:\Users\M4\Zaliczenie\PaswordManagerMobileApp\PaswordManagerMobileApp\
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/DeletePassword.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.DeletePassword.xaml
+build_metadata.AdditionalFiles.TargetPath = DeletePassword.xaml
+build_metadata.AdditionalFiles.RelativePath = DeletePassword.xaml
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Login.xaml
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/NewPassword.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.NewPassword.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPassword.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPassword.xaml
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/Register.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.Register.xaml
+build_metadata.AdditionalFiles.TargetPath = Register.xaml
+build_metadata.AdditionalFiles.RelativePath = Register.xaml
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/M4/Zaliczenie/PaswordManagerMobileApp/PaswordManagerMobileApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PaswordManagerMobileApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

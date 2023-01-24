@@ -1,0 +1,1 @@
+C:\Users\M4\Zaliczenie\PaswordManagerMobileApp\PaswordManagerMobileApp\PaswordManagerMobileApp.csproj;x64
